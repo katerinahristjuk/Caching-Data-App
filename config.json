@@ -1,0 +1,15 @@
+{
+    "weather": {
+        "api_key": "...",
+        "api_version": "2.5"
+    },
+    "db": {
+        "host": "",
+        "username": "",
+        "password": "",
+        "dbname": ""
+    },
+    "service": {
+        "port": "8000"
+    }
+}
